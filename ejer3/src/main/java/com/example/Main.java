@@ -4,6 +4,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-        int edad = 25;
+        byte edad = 25;
+        short postal = 12345;
+        double salario = 3500.00;
+        
+
     }
 }
